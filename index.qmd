@@ -1,7 +1,6 @@
 ---
 title: "Chocolate Chip Cookies"
 author: "Your Name"
-date: "February 20, 2023"
 format: html
 ---
 
