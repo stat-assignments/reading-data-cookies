@@ -61,7 +61,7 @@ Another useful technique for exploratory data analysis is to generate summary ta
 Using R and Python, generate a table that shows what **proportion** of recipes contain each type of ingredient.
 Since you probably don't want to list *all* ingredients in a table, it is acceptable to print a table with the most common 20 ingredients, and then separately print out a character string (using markdown inline code) that lists all of the ingredients that do not appear in at least 20 recipes.
 
-You may want to use the `dplyr` package in R (`group\_by` or `count` functions), as well as the `groupby` and `count` methods in Pandas. [Python example](https://sparkbyexamples.com/pandas/pandas-groupby-count-examples/), [R example](https://dplyr.tidyverse.org/reference/count.html)
+You may want to use the `dplyr` package in R (`group_by` or `count` functions), as well as the `groupby` and `count` methods in Pandas. [Python example](https://sparkbyexamples.com/pandas/pandas-groupby-count-examples/), [R example](https://dplyr.tidyverse.org/reference/count.html)
 
 
 (Delete this note, but you can include data values inline in markdown text by using backticks, at least in R. For instance, here is R's built in value for pi: `r pi`. Unfortunately, this doesn't work in python using the knitr markdown engine, but you can print the list out in python anyways using a code chunk.)
