@@ -1,7 +1,9 @@
 ---
 title: "Chocolate Chip Cookies"
+execute:
+  error: true
 author: "Your Name"
-format: html
+output: html_document
 ---
 
 ## Reading In the Data
