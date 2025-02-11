@@ -27,7 +27,8 @@ I downloaded (and have included in this repository) a database of 250 chocolate 
   - When scaling the ingredients to yield 48 servings, we interpreted one serving to be one cookie. This was the convention in the vast majority of recipes we collected. However, we cannot guarantee that every recipe followed this rule, and some recipes create cookies of different sizes. 
 
   -Units were converted as needed so that only one unit was used per ingredient. 
-	
+
+<!-- 
 ### All_directions.txt
 
 - 	**What is this?**: This is the corpus of recipe instructions that were analyzed in the average cookie essay. It represents the baking instructions from 211 chocolate chip cookie recipes.
@@ -39,3 +40,4 @@ I downloaded (and have included in this repository) a database of 250 chocolate 
 
 - **Other Notes:**
     - This is a corpus of all the recipe ingredients listed in a single document.
+-->
